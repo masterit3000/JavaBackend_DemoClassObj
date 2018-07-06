@@ -25,7 +25,7 @@ public class JavaBackend_LAB01 {
         kh01.ten = "Ngueyn Van A";
         kh01.diaChi = " Ha Noi";
         kh01.inThongTin();
-        
+        System.out.println("Xin chao cac ban");
         //build javac
         //run: java -jar
         
