@@ -22,7 +22,7 @@ public class KhachHang {
         System.out.println("Ma =" + this.ma);//this: dai dien cho obj hien tai se goi ham nay chay
         System.out.println("ten =" + this.ten);
         System.out.println("diaChi =" + this.diaChi);
-
+        System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaa");
     }
 
 }
